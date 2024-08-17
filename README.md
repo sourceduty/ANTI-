@@ -32,6 +32,10 @@ Finally, the use of "ANTI-" has a profound impact on social and political dynami
 > "*The use of anti- is dynamic depending on language, location, control and timing.*"
 
 #
+
+![Joker](https://github.com/user-attachments/assets/5502283a-e19f-49b7-941d-0daf091b834e)
+
+#
 ### Related Links
 
 [Retrowriter](https://github.com/sourceduty/Retrowriter)
