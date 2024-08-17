@@ -35,12 +35,15 @@ Finally, the use of "ANTI-" has a profound impact on social and political dynami
 
 ![Joker](https://github.com/user-attachments/assets/5502283a-e19f-49b7-941d-0daf091b834e)
 
+
 #
 ### Related Links
 
 [Retrowriter](https://github.com/sourceduty/Retrowriter)
 <br>
 [Text Emulator](https://github.com/sourceduty/Text_Emulator)
+<br>
+[Semaphore Sign](https://github.com/sourceduty/Semaphore_Sign)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
