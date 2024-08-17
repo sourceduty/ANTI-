@@ -29,6 +29,8 @@ Finally, the use of "ANTI-" has a profound impact on social and political dynami
 
 > "*Terms with anti- cause their own opposition.*"
 
+> "*The use of anti- is dynamic depending on language, location, control and timing.*"
+
 #
 ### Related Links
 
