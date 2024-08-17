@@ -27,6 +27,8 @@ Finally, the use of "ANTI-" has a profound impact on social and political dynami
 
 > Alex: "*By attaching "ANTI-" to a word, it immediately forms a counterpart that stands in direct opposition to the original term.*"
 
+> "*Terms with anti- cause their own opposition.*"
+
 #
 ### Related Links
 
