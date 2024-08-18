@@ -43,9 +43,9 @@ B
 ```
 
 A: Represents one concept (e.g., Light).
-
+<br>
 B: Represents the opposite concept (e.g., Dark).
-
+<br>
 M: Midpoint representing balance or harmony between A and B.
 
 This simple diagram focuses purely on the direct relationship between the two opposing points and their balance.
