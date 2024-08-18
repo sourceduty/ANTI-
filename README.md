@@ -59,11 +59,6 @@ This simple diagram focuses purely on the direct relationship between the two op
 > "*The use of anti- is dynamic depending on language, location, control and timing.*"
 
 #
-
-![Joker](https://github.com/user-attachments/assets/5502283a-e19f-49b7-941d-0daf091b834e)
-
-
-#
 ### Related Links
 
 [Retrowriter](https://github.com/sourceduty/Retrowriter)
@@ -71,6 +66,10 @@ This simple diagram focuses purely on the direct relationship between the two op
 [Text Emulator](https://github.com/sourceduty/Text_Emulator)
 <br>
 [Semaphore Sign](https://github.com/sourceduty/Semaphore_Sign)
+
+#
+
+![Joker](https://github.com/user-attachments/assets/5502283a-e19f-49b7-941d-0daf091b834e)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
