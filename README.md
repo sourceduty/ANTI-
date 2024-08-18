@@ -67,6 +67,8 @@ In practical terms, understanding the angle of duality and its degrees allows us
 
 > "*The use of anti- is dynamic depending on language, location, control and timing.*"
 
+> "*The different degrees of a duality spectrum can find the maximum of a duality.*"
+
 #
 ### Related Links
 
