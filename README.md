@@ -68,7 +68,7 @@ In practical terms, understanding the angle of duality and its degrees allows us
 
 Philosophical Duality Math may not be "accurate" in the traditional sense that mathematical theorems are, but it can still be a valuable tool for exploring and illustrating philosophical ideas. Its effectiveness and accuracy would depend on how well it bridges the gap between philosophical duality and mathematical reasoning.
 
-#
+***
 
 > Alex: "*By attaching "ANTI-" to a word, it immediately forms a counterpart that stands in direct opposition to the original term.*"
 
