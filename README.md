@@ -88,6 +88,10 @@ Philosophical Duality Math may not be "accurate" in the traditional sense that m
 [Semaphore Sign](https://github.com/sourceduty/Semaphore_Sign)
 <br>
 [Communication](https://github.com/sourceduty/Communication)
+<br>
+[Socialogy](https://github.com/sourceduty/Sociology)
+<br>
+[Social Security](https://github.com/sourceduty/Social_Security)
 
 #
 
