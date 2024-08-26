@@ -93,5 +93,9 @@ Philosophical Duality Math may not be "accurate" in the traditional sense that m
 
 ![Joker](https://github.com/user-attachments/assets/5502283a-e19f-49b7-941d-0daf091b834e)
 
+#
+
+![Full Metal Jacket AI Joker](https://github.com/user-attachments/assets/408dc08f-4488-4e0c-bc9a-0492813695f0)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
