@@ -92,6 +92,8 @@ Philosophical Duality Math may not be "accurate" in the traditional sense that m
 [Socialogy](https://github.com/sourceduty/Sociology)
 <br>
 [Social Security](https://github.com/sourceduty/Social_Security)
+<br>
+[Theory of Norms](https://github.com/sourceduty/Theory_of_Norms)
 
 #
 
